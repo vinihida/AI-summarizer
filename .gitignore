@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+localstack/
+
+# IDE
+.vscode/
+.idea/
